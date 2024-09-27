@@ -1,0 +1,12 @@
+1. pertier
+cmd + shft + p
+
+
+This is to set format on Save
+Press Ctrl+shift+p and type Preferences: Open User Settings (JSON). In that json file add the following line and save. This should enable so vscode formats the code each time you save.
+
+Press Ctrl+shift+p and type Preferences: Open User Settings (JSON). In that json file add the following line and save. This should enable so vscode formats the code each time you save.
+
+{
+"editor.formatOnSave": true
+}
